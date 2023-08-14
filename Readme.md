@@ -21,7 +21,7 @@ Download dengan klik link dibawah ini :
 
 Anda bisa melihat demo dengan klik link dibawah ini :
 
-[Demo](https://yearlysteepinverse--wisnushaputra.repl.co/)
+[Demo](error-page.wisnushaputra.repl.co)
 ## Screenshots
 
 ![Error page](https://github.com/wisnushaputra/Error_Page/assets/67814969/189fe4bf-6966-4052-94b5-51a86c0467bb)
